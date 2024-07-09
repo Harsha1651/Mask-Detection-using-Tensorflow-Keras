@@ -11,3 +11,6 @@ This project aims to detect whether individuals in a video stream are wearing ma
 <br><b>Preprocess Detected Faces:</b> Detected faces are extracted, resized to the required input dimensions for the model, and converted to arrays.<br>
 <br><b>Mask Classification:</b> Each detected face is classified as "Mask" or "No Mask" using the loaded model.<br>
 <br><b>Display Results:</b> The results are displayed on the video feed with rectangles drawn around faces and labels indicating mask status.<br>
+
+
+###This file only contains one half of the part wherein the training and testing is done. The other half is available in "...............".Pls make sure to view this for better understanding.
