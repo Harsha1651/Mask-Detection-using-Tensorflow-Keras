@@ -1,4 +1,4 @@
-# Mask-detection-using-Tensorflow-Keras
+# Maskify- Your guidance, Our priority..............
 This project aims to detect whether individuals in a video stream are wearing masks using a deep learning model. The program utilizes OpenCV for face detection and TensorFlow/Keras for mask classification.<br>
 <h2><b>Components:</b></h2><br>
 <b>Face Detection:</b> The program uses a Haar Cascade classifier to detect faces in real-time from a video feed.<br>
